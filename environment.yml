@@ -1,0 +1,31 @@
+name: biof309
+channels:
+- bioconda
+- conda-forge
+- r
+- anaconda
+- defaults
+dependencies:
+- conda
+- samtools
+- sambamba
+- fileupload
+- ipykernel
+- ipython_genutils
+- ipython
+- ipywidgets
+- jupyter_client
+- jupyter_console
+- jupyter_contrib_core
+- jupyter_contrib_nbextensions
+- jupyter_core
+- jupyter
+- matplotlib
+- pip
+- prompt_toolkit
+- python
+- python-dateutil
+- pysam
+- setuptools
+- wheel
+- widgetsnbextension

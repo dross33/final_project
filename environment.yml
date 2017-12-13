@@ -9,7 +9,6 @@ dependencies:
 - conda
 - samtools
 - sambamba
-- fileupload
 - ipykernel
 - ipython_genutils
 - ipython

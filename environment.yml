@@ -6,7 +6,6 @@ channels:
 - anaconda
 - defaults
 dependencies:
-- conda
 - samtools
 - sambamba
 - ipykernel
